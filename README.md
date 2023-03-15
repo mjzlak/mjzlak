@@ -1,4 +1,4 @@
-<h1 align="center">Hi GitHub user 👋, I'm Mjzlak </h1>
+<h1 align="center">Hi GitHub user 👋</h1>
 
 ### My languages:
   - French
@@ -27,4 +27,4 @@
   - 🌱 I’m presently learning more about P2P
   - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/marie-loeffer-a91520263/)
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/mjzlak)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/green_img.png)](https://www.buymeacoffee.com/mjzlak)
