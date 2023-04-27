@@ -1,6 +1,6 @@
 <h1 align="center">Hi GitHub user 👋, I'm mjzlak</h1>
 
-<p align="left">I'm a French developer who speak english and a little bit german !</p>
+<p align="left">I'm a French developer who speak english !</p>
 
 ### My programming languages:
 <p align="left">
