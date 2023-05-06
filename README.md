@@ -26,7 +26,7 @@
 
 ### More about me:
 
-  - 🔭 I’m currently working with C on Linux
+  - 🔭 I’m currently learning JS
   - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/marie-loeffer-a91520263/)
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/mjzlak)
