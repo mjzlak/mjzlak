@@ -1,6 +1,5 @@
-<h1 align="center">Hi GitHub user 👋, I'm mjzlak</h1>
-
-<p align="left">I'm a French developer who speak english !</p>
+<h1 align="center">Hi, I'm mjzlak 👋</h1>
+<p align="left">I'm a French developer c:</p>
 
 ### My programming languages:
 <p align="left">
@@ -29,4 +28,13 @@
   - 🔭 I’m currently learning JS
   - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/marie-loeffer-a91520263/)
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/mjzlak)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+<div align="center">
+<a href="https://github.com/mjzlak/">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjzlak" width="450"/>
+  </div>
+<h1></h1>
+  <br>
+ <a href="https://www.buymeacoffee.com/mjzlak"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
