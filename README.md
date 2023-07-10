@@ -25,7 +25,7 @@
 
 ### More about me:
 
-  - 🔭 I’m currently learning JS
+  - 🔭 I’m currently learning Python
   - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/marie-loeffer-a91520263/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
