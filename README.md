@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm mjzlak 👋</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="left">I'm a French developer c:</p>
 
 ### My programming languages:
