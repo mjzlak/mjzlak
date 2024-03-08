@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" alt="GIF d'introduction" width="auto" height="auto">
 </p>
 
-<h1 align="center"> hi 👩‍💻​</h1>
+<h1 align="center"> hi 👩‍💻   <img src="https://visitor-badge.laobi.icu/badge?page_id=mjzlak.visitor-badge"/> ​</h1>
 <p align="center">i'm a french second year student at @Epitech Lyon !</strong></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -33,8 +33,14 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://wakatime.com/badge/user/d365e559-9100-447c-a516-31e8d5c16c4f.svg"/>
+  
+</div>
 <p align="center">
   <a href="https://www.buymeacoffee.com/mjzlak">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" width="auto" height="auto">
   </a>
+</p>
+<p align="center">
 </p>
