@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center"> hi 👩‍💻​</h1>
+<p align="center">i'm a french second year student at @Epitech Lyon !</strong></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><strong> here's my programming languages :</strong></p>
@@ -26,7 +27,7 @@
 
 <p align="center"><strong> ..more about me</strong></p>
 <p align="center">
-  🔭 I’m currently learning C.
+  🔭 I’m currently learning Haskell.
   <br>
   📫 You can reach me on <a href="https://www.linkedin.com/in/marie-loeffer-a91520263/">LinkedIn</a>.
 </p>
