@@ -27,7 +27,7 @@
 
 <p align="center"><strong> ..more about me</strong></p>
 <p align="center">
-  🔭 I’m currently learning Haskell.
+  🔭 I’m currently learning how to use volatility.
   <br>
   📫 You can reach me on <a href="https://www.linkedin.com/in/marie-loeffer-a91520263/">LinkedIn</a>.
 </p>
