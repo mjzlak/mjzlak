@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> hi 👩‍💻   <img src="https://visitor-badge.laobi.icu/badge?page_id=mjzlak.visitor-badge"/> ​</h1>
-<p align="center">i'm a french student at @Lyon !</strong></p>
+<p align="center">i'm a french student based in Lyon !</strong></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><strong> here's my programming languages :</strong></p>
@@ -27,7 +27,7 @@
 
 <p align="center"><strong> ..more about me</strong></p>
 <p align="center">
-  🔭 I’m currently learning how to use volatility.
+  🔭 I’m currently working on my Piscine projects at @42Lyon !
   <br>
   📫 You can reach me on <a href="https://www.linkedin.com/in/marie-loeffer-a91520263/">LinkedIn</a>.
 </p>
