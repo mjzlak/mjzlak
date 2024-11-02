@@ -27,7 +27,7 @@
 
 <p align="center"><strong> ..more about me</strong></p>
 <p align="center">
-  🔭 I’m currently working on my Piscine projects at @42Lyon !
+  🔭 I’m currently working on my projects at @42Lyon !
   <br>
   📫 You can reach me on <a href="https://www.linkedin.com/in/marie-loeffer-a91520263/">LinkedIn</a>.
 </p>
